@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91bc35ca-ec4d-4262-acc1-184803d67c77" name="Default" comment="" />
+    <list default="true" id="91bc35ca-ec4d-4262-acc1-184803d67c77" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,54 +54,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JsonSerializer.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="JsonSerializer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/sample/annotation/JsonSerializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="26" column="50" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+            <state relative-caret-position="194">
+              <caret line="30" column="55" lean-forward="false" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#343#400#1" expanded="true" />
-                <element signature="e#366#399#0" expanded="true" />
-                <element signature="e#413#464#1" expanded="true" />
-                <element signature="e#477#752#0" expanded="true" />
-                <element signature="e#482#493#0" expanded="true" />
-                <element signature="e#495#526#0" expanded="true" />
-                <element signature="e#477#752#0" expanded="true" />
-                <element signature="e#546#571#0" expanded="true" />
-                <element signature="e#546#571#0" expanded="true" />
-                <element signature="e#589#738#0" expanded="true" />
-                <element signature="e#589#738#0" expanded="true" />
-                <element signature="e#659#719#0" expanded="true" />
-                <element signature="e#659#719#0" expanded="true" />
-                <element signature="e#659#719#0" expanded="true" />
-                <element signature="e#878#984#0" expanded="true" />
-                <element signature="e#878#984#0" expanded="true" />
-                <element signature="e#958#972#0" expanded="true" />
-                <element signature="e#1062#1260#1" expanded="true" />
-                <element signature="e#1086#1130#0" expanded="true" />
-                <element signature="e#1161#1219#0" expanded="true" />
-                <element signature="e#1169#1183#0" expanded="true" />
-                <element signature="e#1186#1193#0" expanded="true" />
-                <element signature="e#1196#1212#0" expanded="true" />
-                <element signature="e#1215#1219#0" expanded="true" />
-                <element signature="e#1276#1302#0" expanded="true" />
-                <element signature="e#1276#1302#0" expanded="true" />
-                <element signature="e#1376#1446#1" expanded="true" />
-                <element signature="e#1455#1594#0" expanded="true" />
-                <element signature="e#1459#1484#0" expanded="true" />
-                <element signature="e#1455#1594#0" expanded="true" />
-                <element signature="e#1507#1522#0" expanded="true" />
+                <element signature="e#410#467#1" expanded="true" />
+                <element signature="e#433#466#0" expanded="true" />
+                <element signature="e#480#535#1" expanded="true" />
+                <element signature="e#548#823#0" expanded="true" />
+                <element signature="e#553#564#0" expanded="true" />
+                <element signature="e#566#597#0" expanded="true" />
+                <element signature="e#548#823#0" expanded="true" />
+                <element signature="e#617#642#0" expanded="true" />
+                <element signature="e#617#642#0" expanded="true" />
+                <element signature="e#660#809#0" expanded="true" />
+                <element signature="e#660#809#0" expanded="true" />
+                <element signature="e#889#995#0" expanded="true" />
+                <element signature="e#889#995#0" expanded="true" />
+                <element signature="e#969#983#0" expanded="true" />
+                <element signature="e#1077#1490#1" expanded="true" />
+                <element signature="e#1101#1161#0" expanded="true" />
+                <element signature="e#1194#1335#0" expanded="true" />
+                <element signature="e#1197#1213#0" expanded="true" />
+                <element signature="e#1194#1335#0" expanded="true" />
+                <element signature="e#1276#1334#0" expanded="true" />
+                <element signature="e#1284#1298#0" expanded="true" />
+                <element signature="e#1301#1308#0" expanded="true" />
+                <element signature="e#1311#1327#0" expanded="true" />
+                <element signature="e#1330#1334#0" expanded="true" />
+                <element signature="e#1367#1416#0" expanded="true" />
+                <element signature="e#1375#1389#0" expanded="true" />
+                <element signature="e#1392#1397#0" expanded="true" />
+                <element signature="e#1400#1416#0" expanded="true" />
+                <element signature="e#1367#1416#0" expanded="true" />
+                <element signature="e#1506#1532#0" expanded="true" />
+                <element signature="e#1506#1532#0" expanded="true" />
+                <element signature="e#1606#1676#1" expanded="true" />
+                <element signature="e#1685#1824#0" expanded="true" />
+                <element signature="e#1689#1714#0" expanded="true" />
+                <element signature="e#1685#1824#0" expanded="true" />
+                <element signature="e#1737#1752#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnnotationDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AnnotationDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sample/annotation/AnnotationDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="102">
+              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
               <folding>
                 <element signature="e#145#212#1" expanded="true" />
                 <element signature="e#221#270#1" expanded="true" />
@@ -130,6 +138,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -140,9 +151,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/sample/annotation/JsonField.java" />
         <option value="$PROJECT_DIR$/src/com/sample/annotation/JsonSerializeException.java" />
-        <option value="$PROJECT_DIR$/src/com/sample/annotation/JsonSerializer.java" />
         <option value="$PROJECT_DIR$/src/com/sample/annotation/AnnotationDemo.java" />
         <option value="$PROJECT_DIR$/src/com/sample/annotation/Product.java" />
+        <option value="$PROJECT_DIR$/src/com/sample/annotation/JsonSerializer.java" />
       </list>
     </option>
   </component>
@@ -152,6 +163,7 @@
     <option name="width" value="1366" />
     <option name="height" value="710" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -334,6 +346,21 @@
       <option name="presentableId" value="Default" />
       <updated>1518315019015</updated>
     </task>
+    <task id="LOCAL-00001" summary="added few changes to the serializer.">
+      <created>1518323369596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518323369596</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed out directory.">
+      <created>1518323426807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518323426807</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -348,7 +375,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -370,6 +397,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added few changes to the serializer." />
+    <MESSAGE value="removed out directory." />
+    <option name="LAST_COMMIT_MESSAGE" value="removed out directory." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -381,58 +413,6 @@
           <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sample/annotation/JsonSerializeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sample/annotation/JsonSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="26" column="50" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#343#400#1" expanded="true" />
-            <element signature="e#366#399#0" expanded="true" />
-            <element signature="e#413#464#1" expanded="true" />
-            <element signature="e#477#752#0" expanded="true" />
-            <element signature="e#482#493#0" expanded="true" />
-            <element signature="e#495#526#0" expanded="true" />
-            <element signature="e#477#752#0" expanded="true" />
-            <element signature="e#546#571#0" expanded="true" />
-            <element signature="e#546#571#0" expanded="true" />
-            <element signature="e#589#738#0" expanded="true" />
-            <element signature="e#589#738#0" expanded="true" />
-            <element signature="e#659#719#0" expanded="true" />
-            <element signature="e#659#719#0" expanded="true" />
-            <element signature="e#659#719#0" expanded="true" />
-            <element signature="e#878#984#0" expanded="true" />
-            <element signature="e#878#984#0" expanded="true" />
-            <element signature="e#958#972#0" expanded="true" />
-            <element signature="e#1062#1260#1" expanded="true" />
-            <element signature="e#1086#1130#0" expanded="true" />
-            <element signature="e#1161#1219#0" expanded="true" />
-            <element signature="e#1169#1183#0" expanded="true" />
-            <element signature="e#1186#1193#0" expanded="true" />
-            <element signature="e#1196#1212#0" expanded="true" />
-            <element signature="e#1215#1219#0" expanded="true" />
-            <element signature="e#1276#1302#0" expanded="true" />
-            <element signature="e#1276#1302#0" expanded="true" />
-            <element signature="e#1376#1446#1" expanded="true" />
-            <element signature="e#1455#1594#0" expanded="true" />
-            <element signature="e#1459#1484#0" expanded="true" />
-            <element signature="e#1455#1594#0" expanded="true" />
-            <element signature="e#1507#1522#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -462,13 +442,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sample/annotation/JsonSerializeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sample/annotation/AnnotationDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="102">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
           <folding>
             <element signature="e#145#212#1" expanded="true" />
             <element signature="e#221#270#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sample/annotation/JsonSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="30" column="55" lean-forward="false" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#410#467#1" expanded="true" />
+            <element signature="e#433#466#0" expanded="true" />
+            <element signature="e#480#535#1" expanded="true" />
+            <element signature="e#548#823#0" expanded="true" />
+            <element signature="e#553#564#0" expanded="true" />
+            <element signature="e#566#597#0" expanded="true" />
+            <element signature="e#548#823#0" expanded="true" />
+            <element signature="e#617#642#0" expanded="true" />
+            <element signature="e#617#642#0" expanded="true" />
+            <element signature="e#660#809#0" expanded="true" />
+            <element signature="e#660#809#0" expanded="true" />
+            <element signature="e#889#995#0" expanded="true" />
+            <element signature="e#889#995#0" expanded="true" />
+            <element signature="e#969#983#0" expanded="true" />
+            <element signature="e#1077#1490#1" expanded="true" />
+            <element signature="e#1101#1161#0" expanded="true" />
+            <element signature="e#1194#1335#0" expanded="true" />
+            <element signature="e#1197#1213#0" expanded="true" />
+            <element signature="e#1194#1335#0" expanded="true" />
+            <element signature="e#1276#1334#0" expanded="true" />
+            <element signature="e#1284#1298#0" expanded="true" />
+            <element signature="e#1301#1308#0" expanded="true" />
+            <element signature="e#1311#1327#0" expanded="true" />
+            <element signature="e#1330#1334#0" expanded="true" />
+            <element signature="e#1367#1416#0" expanded="true" />
+            <element signature="e#1375#1389#0" expanded="true" />
+            <element signature="e#1392#1397#0" expanded="true" />
+            <element signature="e#1400#1416#0" expanded="true" />
+            <element signature="e#1367#1416#0" expanded="true" />
+            <element signature="e#1506#1532#0" expanded="true" />
+            <element signature="e#1506#1532#0" expanded="true" />
+            <element signature="e#1606#1676#1" expanded="true" />
+            <element signature="e#1685#1824#0" expanded="true" />
+            <element signature="e#1689#1714#0" expanded="true" />
+            <element signature="e#1685#1824#0" expanded="true" />
+            <element signature="e#1737#1752#0" expanded="true" />
           </folding>
         </state>
       </provider>
